@@ -1,0 +1,7 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/evangelosspyromilios/Desktop/Personal'
+make: Leaving directory `/Users/evangelosspyromilios/Desktop/Personal'
+ 
+make: *** No rule to make target `ft.cpp', needed by `ft'.
+make: *** No rule to make target `std.cpp', needed by `std'.
+
